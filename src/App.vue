@@ -2,6 +2,7 @@
   <div id="app">
     <input type="text" id="text">
     <p id="show">123456</p>
+    <p>demo1修改</p>
   </div>
 </template>
 <script type='text/ecmascript-6'>
